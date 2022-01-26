@@ -1,18 +1,16 @@
 <template>
   <div class="home">
     <div class="feature-card">
-      <router-link to="/movie/tt0409591">
+      <router-link to="/">
         <img
-          src="https://m.media-amazon.com/images/M/MV5BZmQ5NGFiNWEtMmMyMC00MDdiLTg4YjktOGY5Yzc2MDUxMTE1XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg"
-          alt="Naruto Poster"
+          src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-movies-1606255499.jpg"
+          alt="Hero Poster"
           class="featured-img"
         />
         <div class="detail">
-          <h3>Naruto</h3>
+          <h3>Quickie Movie Search</h3>
           <p>
-            Naruto Uzumaki, a mischievous adolescent ninja, struggles as he
-            searches for recognition and dreams of becoming the Hokage, the
-            village's leader and strongest ninja.
+            Quickie Movie Search is a search app for your favorite movie/series.
           </p>
         </div>
       </router-link>
