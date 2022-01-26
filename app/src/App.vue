@@ -4,9 +4,7 @@
       <h1><span>Quickie Search </span>Movies</h1>
     </router-link>
   </header>
-  <main>
-    <router-view> </router-view>
-  </main>
+  <main></main>
   <router-view />
 </template>
 
